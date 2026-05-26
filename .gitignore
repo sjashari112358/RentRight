@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+venv/
+dist/
+build/
+
+# Node / React Native
+node_modules/
+.expo/
+*.log
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+*.pem
+*.key
+.env*
+!.env.example
